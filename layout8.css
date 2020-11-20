@@ -1,0 +1,89 @@
+body {
+	color : PaleVioletRed;
+	
+	margin-left: 10%;
+	margin-right: 10%;
+	
+	background-image: url("https://static.vecteezy.com/system/resources/previews/000/665/413/non_2x/vector-damask-seamless-pastel-blue-pattern-background.jpg");
+}
+
+
+/*
+#container *:hover {
+	background-color: yellow;
+}
+*/
+* *:hover {
+	background-color: yellow;
+}
+
+
+
+
+#container {
+	border-radius: 25px 25px 25px 25px;
+	padding : 3px;
+	border: 10px white solid;  
+	background-color : white;
+}
+#header {
+	
+	border-radius: 80px 25px 25px 80px;
+	padding :3px;
+	background-color :  #C2E9E9 ; 
+	text-align: right;
+}
+h1 {
+	
+	color: yellow;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+	
+}
+#header h2 {
+	font-size: 14pt;
+	
+}
+h2{
+text-shadow: 1px 1px 3px green;
+}
+
+.date {
+	border-bottom : 2px blue dashed;
+}
+
+.first {
+	border-radius: 70px   40px  25px  10px;
+	padding :5px;
+	border: 4px #C2E9E9 solid;
+	background-color : #E8FBFB ; 
+	padding: 5px;
+	margin-top: 10px;
+	
+}
+
+
+.first img {
+	border-radius: 80px 40px 80px 40px;
+	float: right;
+}
+
+#Friends {
+	text-shadow: 0 0 3px black;
+	border-radius: 80px 50px 80px 50px;
+	background-color: Lavender;
+	float: left;
+	margin-top: 10px;
+	width: 150px;
+	padding: 5px;
+	border: 5px DarkTurquoise solid;
+}
+
+#first1 {
+	margin-left: 180px;
+}
+
+.spacer {
+	clear: both;
+}
+
+

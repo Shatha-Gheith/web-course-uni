@@ -1,0 +1,63 @@
+#container {
+	border: 10px white solid;  
+	background-color : white;
+}
+#header {
+	background-color :  #C2E9E9 ; 
+	text-align: right;
+}
+
+#header h2 {
+	font-size: 14pt;
+	
+}
+
+
+.date {
+	border-bottom : 2px blue dashed;
+}
+
+.first {
+	border-radius: 15px;
+	border: 4px #C2E9E9 solid;
+	background-color : #E8FBFB ; 
+	padding: 5px;
+	margin-top: 10px;
+	
+}
+body {
+	color : PaleVioletRed;
+	
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.first img {
+	
+	float: right;
+}
+
+
+
+
+
+
+#Friends {
+	border-radius: 15px;
+	background-color: Lavender;
+	float: left;
+	margin-top: 10px;
+	width: 150px;
+	padding: 5px;
+	border: 5px DarkTurquoise solid;
+}
+
+#first1 {
+	margin-left: 180px;
+}
+
+.spacer {
+	clear: both;
+}
+
+
